@@ -3,7 +3,7 @@ import Child01 from './Child01';
 
 function Bts01() {
 
-    const bts=['김남준', '김석진', '민윤기', '박지민', '김태형', '전정국', '정호석'];
+    const bts=['김남준', '김석진', '민윤기', '박지민', '김태형', '전정국', '정호석' ];
     
     return (
         <>
