@@ -1,0 +1,39 @@
+@charset 'utf-8';
+
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    line-height:60px;
+    text-align:center;
+}
+
+header, footer {
+    /* height:60px; */
+}
+
+header {
+    background:#ffd900;
+}
+
+footer {
+    background:#e1e1e1;
+}
+
+main {
+    min-height:400px;
+    background:#98ffba;
+    text-align: center;
+}
+
+address {
+    font-style:normal;
+}
+
+nav > ul {
+    display:flex;
+    list-style:none;
+    justify-content: space-around;
+}
